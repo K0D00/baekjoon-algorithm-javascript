@@ -9,3 +9,4 @@
 - [알고리즘 기초 1/2](https://code.plus/course/41)
 
 ### 문제풀이
+- 자료구조 1(기초): https://www.acmicpc.net/group/workbook/view/16052/50523
