@@ -9,4 +9,6 @@
 - [알고리즘 기초 1/2](https://code.plus/course/41)
 
 ### 문제풀이
-- [자료구조 1 (기초)](https://www.acmicpc.net/group/workbook/view/16052/50523)
+- [자료구조 1 (기초)](https://github.com/kodooui/baekjoon-algorithm-javascript/tree/main/examples/data-basic)
+- [자료구조 1 (연습)](https://github.com/kodooui/baekjoon-algorithm-javascript/tree/main/examples/data-practice)
+- [자료구조 1 (참고)](https://github.com/kodooui/baekjoon-algorithm-javascript/tree/main/examples/data-study)
