@@ -8,6 +8,8 @@ const exe = str.split('');
 const stack = [];
 const logs = [];
 
+// 너무 어려워서.. 아래 링크를 참고해서 이해함
+// https://junghyeonsu.tistory.com/254
 for (let i=0; i<exe.length; i++) {
   const ch = exe[i];
 
