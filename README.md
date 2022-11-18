@@ -25,7 +25,6 @@
   - [오등큰수](https://github.com/kodooui/baekjoon-algorithm-javascript/tree/main/examples/data-practice/17299.js)
 - [자료구조 1 (참고)](https://github.com/kodooui/baekjoon-algorithm-javascript/tree/main/examples/data-study)
   - [알파벳 찾기](https://github.com/kodooui/baekjoon-algorithm-javascript/tree/main/examples/data-study/10809.js)
-  - [단어 길이 재기](https://github.com/kodooui/baekjoon-algorithm-javascript/tree/main/examples/data-study/2743.js)
   - [알파벳 개수](https://github.com/kodooui/baekjoon-algorithm-javascript/tree/main/examples/data-study/10808.js)
   - [네 수](https://github.com/kodooui/baekjoon-algorithm-javascript/tree/main/examples/data-study/10824.js)
   - [문자열 분석](https://github.com/kodooui/baekjoon-algorithm-javascript/tree/main/examples/data-study/10820.js)
