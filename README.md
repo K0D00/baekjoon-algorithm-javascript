@@ -12,4 +12,4 @@
 - [자료구조 1 (기초)](https://github.com/kodooui/baekjoon-algorithm-javascript/tree/main/examples/data-basic)
 - [자료구조 1 (연습)](https://github.com/kodooui/baekjoon-algorithm-javascript/tree/main/examples/data-practice)
 - [자료구조 1 (참고)](https://github.com/kodooui/baekjoon-algorithm-javascript/tree/main/examples/data-study)
-- [수학 1]
+- [수학 1 (기초)](https://github.com/kodooui/baekjoon-algorithm-javascript/tree/main/examples/math-basic)
