@@ -3,24 +3,28 @@
 const [a, b] = require('fs').readFileSync('1929.txt').toString().trim().split(' ');
 // const [a, b] = require('fs').readFileSync('/dev/stdin').toString().trim().split(' ');
 
-const logs = [];
+const check = [];
+const prime = [];
+let pn = 0;
 
-function isPrimeNum(n) {
-  if (n < 2) {
-    return false;
+const start = Number(a);
+const n = Number(b);
+
+for (let i=2; i<=n; i++) {
+  if (i < 2) {
+    continue;
   }
-  for (let i=2; i*i<=n; i++) {
-    if (n % i === 0) {
-      return false;
+  if (!check[i]) {
+    prime[pn++] = i;
+
+    for (let j=i+i; j<=n; j+=i) {
+      check[j] = true;
     }
   }
-  return true;
 }
 
-for (let i=Number(a); i<=Number(b); i++) {
-  if (isPrimeNum(i)) {
-    logs.push(i);
-  }
-}
+const answer = prime.filter(num => {
+  return num >= start;
+});
 
-console.log(logs.join('\n'));
+console.log(answer.join('\n'));
