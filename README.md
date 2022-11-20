@@ -35,3 +35,5 @@
   - [나머지](https://github.com/kodooui/baekjoon-algorithm-javascript/tree/main/examples/math-basic/10430.js)
   - [최대공약수와 최소공배수](https://github.com/kodooui/baekjoon-algorithm-javascript/tree/main/examples/math-basic/2609.js)
   - [최소공배수](https://github.com/kodooui/baekjoon-algorithm-javascript/tree/main/examples/math-basic/1934.js)
+  - [소수 찾기]()
+  - [소수 구하기]()
