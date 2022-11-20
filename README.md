@@ -37,3 +37,7 @@
   - [최소공배수](https://github.com/kodooui/baekjoon-algorithm-javascript/tree/main/examples/math-basic/1934.js)
   - [소수 찾기](https://github.com/kodooui/baekjoon-algorithm-javascript/tree/main/examples/math-basic/1978.js)
   - [소수 구하기](https://github.com/kodooui/baekjoon-algorithm-javascript/tree/main/examples/math-basic/1929.js)
+  - [골드바흐의 추측](https://github.com/kodooui/baekjoon-algorithm-javascript/tree/main/examples/math-basic/6588.js)
+  - [팩토리얼](https://github.com/kodooui/baekjoon-algorithm-javascript/tree/main/examples/math-basic/10872.js)
+  - [팩토리얼 0의 개수](https://github.com/kodooui/baekjoon-algorithm-javascript/tree/main/examples/math-basic/1676.js)
+  - [조합 0의 개수](https://github.com/kodooui/baekjoon-algorithm-javascript/tree/main/examples/math-basic/2004.js)
