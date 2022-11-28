@@ -41,3 +41,6 @@
   - [팩토리얼](https://github.com/kodooui/baekjoon-algorithm-javascript/tree/main/examples/math-basic/10872.js)
   - [팩토리얼 0의 개수](https://github.com/kodooui/baekjoon-algorithm-javascript/tree/main/examples/math-basic/1676.js)
   - [조합 0의 개수](https://github.com/kodooui/baekjoon-algorithm-javascript/tree/main/examples/math-basic/2004.js)
+- [수학 1 (연습)]
+
+- [다이나믹 프로그래밍 (기초)]
